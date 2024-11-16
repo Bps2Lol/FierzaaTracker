@@ -1,5 +1,6 @@
 body {
-    background-image:-webkit-image-set("Background.png")
+   background-color: rgb(127, 126, 173);
+    
 }
 
 .Title {
@@ -13,6 +14,7 @@ body {
 
 .TIMESTAMPS {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 .FierzaPage {
